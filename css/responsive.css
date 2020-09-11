@@ -1,0 +1,153 @@
+@media screen and (max-width: 1300px){
+	#sredina {
+		width: 100%;}
+		#gore {
+			width: 100%;}
+			#futer {
+				width: 100%;}}
+@media screen and (max-width: 1200px){
+	#nslika {width: 40%;}
+	#radnovr {width: 20%;}
+	#ilokacija {width: 15%;}
+	#naslov h1{text-align: center}
+#gore{display:flex;}
+#broj{margin-right:-30px;}
+	@media screen and (max-width: 1010px){
+	#radnovr {width: 25%;}
+	#nslika {width: 50%;left: 10%;}
+	#meni {width: 60%;}
+	#galerija {width: 100%;}
+	#galerija .gal {flex-basis: 45%;}
+	#broj {display:none;}
+	#meni {
+		padding: 20px 10px;width: 95%
+	}
+	#heder{height:50px;}
+	#logo{display:block;width: 50%;margin: 0px auto;}
+	#logo img {width: 60%;
+    height: 61px;
+    margin-top: -10px;
+    margin-left: 10px;}
+	#meni2 {
+    width: 100%;}
+	#meni ul li {
+    padding: 1px 4px;}
+	#nslika {
+    width: 60%;
+left: 8%;top: 27%;}
+	#meni{width:95%;flex:2;}
+	#gore{display:flex;}
+	@media screen and (max-width: 850px){
+		#ilokacija{margin-left: 150px;}
+		#radnovr {width: 35%;display: flex;justify-content: flex-end;}
+	#meni2 {width: 100%;}
+	#meni2 .meni1 {flex-basis: 45%;}
+	#autslika p {margin-left:20px;}
+#prijava {width: 80%;}
+#gore{display:block}
+#heder{height:100px;}
+.levi {width: 45%;}
+ #logo img{margin-left: 18%;}
+@media screen and (max-width: 770px){
+	
+	
+	#meni ul li {
+    padding: 1px 3px;}
+	#heder{height:100px;}
+	
+	
+   #ilokacija {  width: 20%;margin-left:20%;}
+   #prijava .forprijava label{display:block;width: 100%;height: 40px;} 
+#prijava .forprijava input:not([type='radio']) {
+    font-size: 20px;
+    padding: 11px;
+width: 80%;}
+@media screen and (max-width: 630px){
+#ilokacija{display:none;}
+#radnovr {
+width: 50%;}
+.levi{width:70%;margin:20px auto;}
+#dostava{display:block}
+#nslika p {
+font-size: 19px;margin-top: 10px;}
+  #nslika h2 {font-size: 35px;}
+#meni2 .meni1 {
+flex-basis: 95%;}
+#dsredina{display:block;}
+#mapa {
+    width: 95%;
+    height: 330px;
+margin: 20px auto;top: 305px;}
+ #donas {
+    width: 60%;
+    height: 250px;
+     margin-left: 20%;
+    margin-top: -355px}
+#tekst2 p{width: 90%;}
+#galerija .gal{
+flex-basis: 95%;}
+#dsredina{min-height:620px;}
+
+#btnMeni{display:block;width:100%;margin-top:30px;}
+	#heder{height:auto;}
+	#nslika {
+    width: 80%;
+    left: 2%;
+    top: 50px;position:absolute;}
+	#slikap img {position:static;}
+	#logo{width:50%;}
+	
+	#slikap img{display:none}
+	#slikap{background-image:url("../slike/77.png");background-size:100% 500px;background-repeat:no-repeat;position: relative;}
+    #meni ul{ display:none; }
+#dugme{ display:block; }
+#meni:hover ul{
+display:block;
+width:100%;
+margin:0px auto;
+height:auto;}
+#meni:hover ul li{
+display:block;
+padding:3px 0px;
+width:100%;margin:0px auto;background-color:rgb(255, 32, 32);}
+
+#meni:hover ul li a{
+color:white;
+width:100%;color:white}
+#meni{width:93%;}
+#naslov h1{width:500px;}
+#ikone {
+    width: 19%;
+    height: 70px; 
+    float: none; 
+display: block;}
+#ikone i {margin-top:4px;}	
+#meni ul li a {
+padding: 12px}
+@media screen and (max-width: 480px){
+	
+	#autslika{display:block;}
+	#autslika p{width:95%;margin-left:5px;}
+	#autslika img{width:92%;margin-left:5px;}
+	
+#naslov h1{width:500px;}
+#ikone {
+    width: 25%;
+    height: 70px; 
+    float: none; 
+display: block;}
+#radnovr {
+width: 30%;}
+#ikone i {margin-top:4px;}
+   @media screen and (max-width: 370px){
+	   #nslika h2 {
+	   font-size: 30px;}
+	   #nslika p {
+	   font-size: 18px;}
+	   #radnovr {
+	   width: 38%;}
+	   #ikone {
+	   width: 28%}
+	   #naslov h1 {
+	   width: 1000px}
+	     #nslika{ width: 90%;top: 35px;}
